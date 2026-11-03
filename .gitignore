@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# MATLAB
+*.asv
+
+# Credentials and raw data stay on your machine
+.env
+data/
